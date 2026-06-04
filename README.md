@@ -26,7 +26,7 @@ This comes from this paper blabla
 </div>
 
 <div align="center">
-<img src="./gifs/video_MEKERK_phoshpo.gif" width="600"> 
+<img src="./gifs/video_MEKERK_phospho.gif" width="600"> 
 </div>
 
 ## Work hostguest
@@ -55,9 +55,12 @@ This comes from this paper blabla
 
 > [The Arch from the Stones: Understanding Protein Folding Energy Landscapes via Bioinspired Collective Variables](https://doi.org/10.1021/acs.jpclett.5c02079)
 
-<div align="center" style="display:flex; justify-content:center; gap:10px;">
-  <img src="./gifs/video_mutation_simple.gif" width="400">
-  <img src="./gifs/video_mutation_complex.gif" width="400">
+<div align="center">
+<img src="./gifs/video_mutation_simple.gif" width="600"> 
+</div>
+
+<div align="center">
+<img src="./gifs/video_mutation_complex.gif" width="600"> 
 </div>
 
 ## Work BAX
