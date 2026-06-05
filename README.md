@@ -97,3 +97,19 @@ A collection of animations of both dynamics and analysis of a set of simulations
   <br>  
   <em>Dynamic opening of a toroidal membrane pore. On the left, density of lipids and solvent as a function of time. Middle and left show the dynamics as the pore opens.</em>
 </div>
+<br>
+<div align="center">
+  <kbd>
+    <img src="./gifs/video_BAX_3Ddensities.gif" width="800"> 
+  </kbd>
+  <br>
+  <em>Density of lipid heads, lipid tails, and protein projected in 3D for the BAX/toroidal pore system.</em>
+</div>
+<br>
+<div align="center">
+  <kbd>
+    <img src="./gifs/video_BAX_2Ddensities.gif" width="800"> 
+  </kbd>
+  <br>
+  <em>2D density map of lipids and BAX protein as a hexamer embedded in the bilayer with estimate of minimum diameter of protein and lipid pores and their distribution.</em>
+</div>
