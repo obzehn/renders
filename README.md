@@ -20,17 +20,6 @@ The animations here are are related to [this](https://doi.org/10.1021/acs.jpclet
   <em>Representation of OneOPES sampling protein conformations, the enhanced sampling method used to explore the free energy landscape of TRP-cage.</em>
 </div>
 
-## Activation of muOR in path space
-The animation is related to [this](https://doi.org/10.1021/acs.jpclett.5c03834) publication, where we explored the free energy landscape of activation of class A GPCRs with a path-like method.
-
-<div align="center">
-  <kbd>
-    <img src="./gifs/video_muor_epath.gif" width="600">
-  </kbd>
-  <br>
-  <em>Representation of the free energy landscape of the mu-opioid receptor sampled with a path CV.</em>
-</div>
-
 ## Sampling of MEK1/ERK2 kinase complex
 
 These are two videos on the MEK1/ERK2 kinase complex, a work we are now [publishing](https://doi.org/10.64898/2026.01.19.700303). These are two snippets of a set of very long simulations that I did for the thesis defense of the first author of the manuscript. Done with ChimeraX.
@@ -123,4 +112,15 @@ A collection of animations of both dynamics and analysis of a set of simulations
   </kbd>
   <br>
   <em>2D density map of lipids and BAX protein as a hexamer embedded in the bilayer with estimate of minimum diameter of protein and lipid pores and their distribution.</em>
+</div>
+
+## Activation of muOR in path space
+The animation is related to [this](https://doi.org/10.1021/acs.jpclett.5c03834) publication, where we explored the free energy landscape of activation of class A GPCRs with a path-like method.
+
+<div align="center">
+  <kbd>
+    <img src="./gifs/video_muor_epath.gif" width="600">
+  </kbd>
+  <br>
+  <em>Representation of the free energy landscape of the mu-opioid receptor sampled with a path CV.</em>
 </div>
