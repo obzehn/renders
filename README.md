@@ -100,7 +100,7 @@ A collection of animations of both dynamics and analysis of a set of simulations
 <br>
 <div align="center">
   <kbd>
-    <img src="./gifs/video_BAX_3Ddensities.gif" width="800"> 
+    <img src="./gifs/video_BAX_3Ddensities.gif" width="900"> 
   </kbd>
   <br>
   <em>Density of lipid heads, lipid tails, and protein projected in 3D for the BAX/toroidal pore system.</em>
@@ -108,7 +108,7 @@ A collection of animations of both dynamics and analysis of a set of simulations
 <br>
 <div align="center">
   <kbd>
-    <img src="./gifs/video_BAX_2Ddensities.gif" width="800"> 
+    <img src="./gifs/video_BAX_2Ddensities.gif" width="400"> 
   </kbd>
   <br>
   <em>2D density map of lipids and BAX protein as a hexamer embedded in the bilayer with estimate of minimum diameter of protein and lipid pores and their distribution.</em>
