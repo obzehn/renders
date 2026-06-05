@@ -2,46 +2,52 @@
 A collection of renders I did for scientific and non-scientific purposes with several software (mostly Blender, ChimeraX, VMD, and python).
 
 ## Folding of TRP-cage
-The animations here are are related to [this](https://doi.org/10.1021/acs.jpclett.5c02079) publication, where we explored the free energy landscape of folding of small proteins.
+The animations here are are related to [this](https://doi.org/10.1021/acs.jpclett.5c02079) publication, where we explored the free energy landscape of folding of small proteins with [OneOPES](https://doi.org/10.1021/acs.jctc.3c00254).
 
 <div align="center">
-  <figure>
-    <img src="./gifs/video_TRP_FES.gif" width="600" alt="TRP FES animation">
-    <br>
-    <figcaption><em>Representation of the free energy landscape of TRP-cage, a mini-protein, and the main structures found in the corresponding minima.</em></figcaption>
-  </figure>
+  <kbd>
+    <img src="./gifs/video_TRP_FES.gif" width="600" alt="TRP FES animation" style="border: 1px solid black;">
+  </kbd>
+  <br>
+  <em>Representation of the free energy landscape of TRP-cage, a mini-protein, and the main structures found in the corresponding minima.</em>
 </div>
-
+<br>
 <div align="center">
-  <figure>
+  <kbd>
     <img src="./gifs/video_TRP_machine.gif" width="600"> 
-    <br>
-    <figcaption><em>Representation of [OneOPES](https://doi.org/10.1021/acs.jctc.3c00254), the enhanced sampling method used to explore the free energy landscape of TRP-cage.</em></figcaption>
-  </figure>
+  </kbd>
+  <br>
+  <em>Representation of OneOPES sampling protein conformations, the enhanced sampling method used to explore the free energy landscape of TRP-cage.</em>
 </div>
 
-## Work MEKERK
+## Sampling of MEK1/ERK2 kinase complex
 
-This comes from this paper blabla
-
-> [The Arch from the Stones: Understanding Protein Folding Energy Landscapes via Bioinspired Collective Variables](https://doi.org/10.1021/acs.jpclett.5c02079)
+These are two videos on the MEK1/ERK2 kinase complex, a work we are now [publishing](https://doi.org/10.64898/2026.01.19.700303). These are two snippets of a set of very long simulations that I did for the thesis defense of the first author of the manuscript.
 
 <div align="center">
-<img src="./gifs/video_MEKERK_HIS.gif" width="600"> 
+  <kbd>
+    <img src="./gifs/video_MEKERK_HIS.gif" width="600" alt="TRP FES animation" style="border: 1px solid black;">
+  </kbd>
+  <br>  
+  <em>Dynamics of the MEK1/ERK2 complex with a focus on the HIS-HIS interaction at the interface.</em>
+</div>
+<br>
+<div align="center">
+  <kbd>
+    <img src="./gifs/video_MEKERK_phospho.gif" width="600"> 
+  </kbd>
+  <br>
+  <em>Dynamics of the MEK1/ERK2 complex with a focus on a phosphorylation-compatible distance of the TxY motiv in ERK2 from the ATP in the binding site of MEK1.</em>
 </div>
 
-<div align="center">
-<img src="./gifs/video_MEKERK_phospho.gif" width="600"> 
-</div>
+## Host-Guest system
 
-## Work hostguest
-
-This comes from this paper blabla
-
-> [The Arch from the Stones: Understanding Protein Folding Energy Landscapes via Bioinspired Collective Variables](https://doi.org/10.1021/acs.jpclett.5c02079)
+A short animation I did on a host-guest system sampled by OneOPES (represented by the concentric rings) for a coworker of mine, from [this](https://doi.org/10.1021/acs.jctc.4c01112) work.
 
 <div align="center">
-<img src="./gifs/video_hostguest.gif" width="600"> 
+  <kbd>
+    <img src="./gifs/video_hostguest.gif" width="600"> 
+  </kbd>
 </div>
 
 ## Work ADRB1
