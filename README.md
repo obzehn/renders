@@ -20,12 +20,12 @@ The animations here are are related to [this](https://doi.org/10.1021/acs.jpclet
   <em>Representation of OneOPES sampling protein conformations, the enhanced sampling method used to explore the free energy landscape of TRP-cage.</em>
 </div>
 
-## Activation of ADRB1 in path space
+## Activation of muOR in path space
 The animation is related to [this](https://doi.org/10.1021/acs.jpclett.5c03834) publication, where we explored the free energy landscape of activation of class A GPCRs with a path-like method.
 
 <div align="center">
   <kbd>
-    <img src="./gifs/video_TRP_FES.gif" width="600">
+    <img src="./gifs/video_muOR_EPATH.gif" width="600">
   </kbd>
   <br>
   <em>Representation of the free energy landscape of the mu-opioid receptor sampled with a path CV.</em>
