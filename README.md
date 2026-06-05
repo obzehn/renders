@@ -119,7 +119,7 @@ The animation is related to [this](https://doi.org/10.1021/acs.jpclett.5c03834) 
 
 <div align="center">
   <kbd>
-    <img src="./gifs/video_muor_epath.gif" width="600">
+    <img src="./gifs/video_muor_activation.gif" width="600">
   </kbd>
   <br>
   <em>Representation of the free energy landscape of the mu-opioid receptor sampled with a path CV.</em>
